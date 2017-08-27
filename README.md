@@ -2,7 +2,7 @@
 
 ## Development server
 
-Run `ng serve` for a dev server. In your browser navigate to `http://localhost:4200/`.
+Run `ng serve` for a dev server.
 
 ## Build
 
