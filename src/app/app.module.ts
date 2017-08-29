@@ -16,7 +16,7 @@ import { LoginFormComponent } from './login-form/login-form.component';
 import { SignupFormComponent } from './signup-form/signup-form.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { UserListComponent } from './user-list/user-list.component';
-import { UserItemComponent } from './user-item/user-item.component'; 
+import { UserItemComponent } from './user-item/user-item.component';
 
 import { ChatService } from './services/chat.service';
 import { AuthService } from './services/auth.service';
