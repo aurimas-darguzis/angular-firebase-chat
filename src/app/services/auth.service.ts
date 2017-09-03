@@ -31,7 +31,7 @@ export class AuthService {
         const status = 'online';
         this.setUserStatus(status);
         this.router.navigate(['chat']);
-      })
+      });
   }
 
   signUp(email: string, password: string, displayName: string) {
